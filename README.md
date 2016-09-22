@@ -37,3 +37,6 @@ $.getJSON("path/to/json.json", function(d){
   ]
 }
 ```
+
+### Example Output
+![Roadmap Example](http://i.imgur.com/dXSwRdo.png)
