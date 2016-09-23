@@ -33,7 +33,7 @@ $.getJSON("path/to/json.json", function(d){
 {
   "events":[
     {
-      "datetime": "2016-09-22 16:32:51",
+      "datetime": "2016/09/22 16:32:51",
       "title": "Roadmap joins GitHub",
       "content": "Roadmap has just been put up on GitHub. Check it out at this link: https://github.com/ImClarky/Roadmap"
     },
@@ -43,6 +43,7 @@ $.getJSON("path/to/json.json", function(d){
   ]
 }
 ```
+<sub>**Note:** Please use slashes (/) in dates. Dashes (-) are not compatible with IE</sub>
 
 ====
 
