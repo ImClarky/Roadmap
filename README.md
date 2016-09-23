@@ -1,13 +1,13 @@
 # Roadmap
 A lightweight jQuery plugin to create a visual roadmap of events. 
 
-
+====
 
 ### What you need 
 * jQuery 1.5.1 or above
 * A formatted JSON file with the events
 
-
+====
 
 ### How to use
 Roadmap is very straight forward to use. Simply provide a selector, which will be the outer-wrap for the roadmap, provide a JSON dataset and some optional option parameters. Like so:
@@ -25,7 +25,7 @@ $.getJSON("path/to/json.json", function(d){
 });
 ```
 
-
+====
 
 ### Example JSON data
 
@@ -44,6 +44,7 @@ $.getJSON("path/to/json.json", function(d){
 }
 ```
 
+====
 
 ### Group Content
 You can group events by date types. Currently you can group events by Day, Month or Year (*weekly is planned*).
