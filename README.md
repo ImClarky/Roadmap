@@ -43,7 +43,7 @@ $.getJSON("path/to/json.json", function(d){
   ]
 }
 ```
-<sub>**Note:** Please use slashes (/) in dates. Dashes (-) are not compatible with IE</sub>
+<sub>**Note:** Please use slashes (/) in dates. Dashes (-) are not compatible with Internet Explorer or FireFox</sub>
 
 ====
 
