@@ -57,3 +57,8 @@ $('#selector').roadmap(data, {sGroupBy: "m"}); //"d" - Day; "m" Month; "y" - Yea
 ```
 
 ![Roadmap Example](http://i.imgur.com/in1TkVV.png)
+
+====
+### Change Log:
++ **1.0.0**
+  - Added Roadmap to GitHub
